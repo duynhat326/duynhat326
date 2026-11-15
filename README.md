@@ -29,6 +29,17 @@
 [+] status : online
 ```
 
+### `$ cat experience.log`
+
+```text
+[*] Intern SOC Analyst
+[*] Teaching Assistant, Corporate Training Solutions Vietnam
+[*] IT Supervisor Assistant, Corporate Training Solutions Vietnam
+[*] ICPC (International Collegiate Programming Contest): team HCMUTE.WayToChampion
+[*] RMIT Hackathon: built AI applications
+[*] daily: Python scripts for crypto attacks, debugging C++ access modifiers, Leetcode
+```
+
 ### `$ ls ~/stack`
 
 <p>
@@ -48,6 +59,12 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=duynhat326&theme=matrix&no-frame=true&no-bg=true&column=7" alt="trophies" />
+</p>
+
+### `$ ./snake.sh`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/duynhat326/duynhat326/output/snake-dark.svg" alt="snake eating my contributions" />
 </p>
 
 ### `$ ./contact.sh`
