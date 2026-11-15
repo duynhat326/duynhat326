@@ -46,25 +46,27 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,bash,linux,git&theme=dark" alt="tech stack" />
 </p>
 
-### `$ git stats --me`
+### `$ ls ~/projects`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=duynhat326&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynhat326&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="top languages" />
-</p>
+| Repo | Lang | What it is |
+| --- | --- | --- |
+| [**SOAR-Playbook-Project**](https://github.com/duynhat326/SOAR-Playbook-Project) | Python | SOAR playbook for emulated endpoint malware response: threat enrichment (VT/AbuseIPDB/CMDB), MITRE ATT&CK mapping, risk scoring, containment policies, Streamlit dashboard and incident reports |
+| [**Cloud-API-based-Project**](https://github.com/duynhat326/Cloud-API-based-Project) | Shell | Cloud-native, API-based network application security for small company services |
+| [**NOVA.RE-tool**](https://github.com/duynhat326/NOVA.RE-tool) | Python | Reversing AI tool |
+| [**CTF-Writeup**](https://github.com/duynhat326/CTF-Writeup) | Python | Every CTF event and writeup from my journey |
+| [**Cryptohack-Writeup**](https://github.com/duynhat326/Cryptohack-Writeup) | Python | CryptoHack challenge writeups |
+| [**Application-Cryptography-Lab**](https://github.com/duynhat326/Application-Cryptography-Lab) | C++ | All 5 labs of the Application Cryptography course |
+
+### `$ git stats --me`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=duynhat326&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duynhat326&theme=matrix&no-frame=true&no-bg=true&column=7" alt="trophies" />
-</p>
-
 ### `$ ./snake.sh`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/duynhat326/duynhat326/output/snake-dark.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/duynhat326/duynhat326/output/snake-dark.svg" alt="snake eating my contributions" width="100%" />
 </p>
 
 ### `$ ./contact.sh`
