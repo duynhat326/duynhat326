@@ -48,14 +48,29 @@
 
 ### `$ ls ~/projects`
 
-| Repo | Lang | What it is |
-| --- | --- | --- |
-| [**SOAR-Playbook-Project**](https://github.com/duynhat326/SOAR-Playbook-Project) | Python | SOAR playbook for emulated endpoint malware response: threat enrichment (VT/AbuseIPDB/CMDB), MITRE ATT&CK mapping, risk scoring, containment policies, Streamlit dashboard and incident reports |
-| [**Cloud-API-based-Project**](https://github.com/duynhat326/Cloud-API-based-Project) | Shell | Cloud-native, API-based network application security for small company services |
-| [**NOVA.RE-tool**](https://github.com/duynhat326/NOVA.RE-tool) | Python | Reversing AI tool |
-| [**CTF-Writeup**](https://github.com/duynhat326/CTF-Writeup) | Python | Every CTF event and writeup from my journey |
-| [**Cryptohack-Writeup**](https://github.com/duynhat326/Cryptohack-Writeup) | Python | CryptoHack challenge writeups |
-| [**Application-Cryptography-Lab**](https://github.com/duynhat326/Application-Cryptography-Lab) | C++ | All 5 labs of the Application Cryptography course |
+<p align="center">
+  <a href="https://github.com/duynhat326/SOAR-Playbook-Project"><img src="./assets/pinned/project-01.svg" width="100%" alt="SOAR Playbook Project: SOAR playbook for emulated endpoint malware response: threat enrichment (VT/AbuseIPDB/CMDB), MITRE ATT&CK mapping, risk scoring, containment policies, Streamlit dashboard and incident reports." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/duynhat326/Cloud-API-based-Project"><img src="./assets/pinned/project-02.svg" width="100%" alt="Cloud API-based Project: Cloud-native, API-based network application security for small company services." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/duynhat326/NOVA.RE-tool"><img src="./assets/pinned/project-03.svg" width="100%" alt="NOVA.RE Tool: Reversing AI tool." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/duynhat326/CTF-Writeup"><img src="./assets/pinned/project-04.svg" width="100%" alt="CTF Writeup: Every CTF event and writeup from my journey." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/duynhat326/Cryptohack-Writeup"><img src="./assets/pinned/project-05.svg" width="100%" alt="Cryptohack Writeup: CryptoHack challenge writeups." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/duynhat326/Application-Cryptography-Lab"><img src="./assets/pinned/project-06.svg" width="100%" alt="Application Cryptography Lab: All 5 labs of the Application Cryptography course." /></a>
+</p>
 
 ### `$ git stats --me`
 
