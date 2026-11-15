@@ -60,6 +60,11 @@
 ### `$ git stats --me`
 
 <p align="center">
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=duynhat326&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
 </p>
 
