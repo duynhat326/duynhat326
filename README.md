@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duynhat326&label=VISITORS&color=00FF41&labelColor=0D1117&style=for-the-badge" alt="views" />
-  <a href="https://github.com/duynhat326?tab=followers"><img src="https://img.shields.io/github/followers/duynhat326?label=FOLLOWERS&color=00FF41&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=5BE372" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=duynhat326&label=VISITORS&color=5BE372&labelColor=0D1117&style=for-the-badge" alt="views" />
+  <a href="https://github.com/duynhat326?tab=followers"><img src="https://img.shields.io/github/followers/duynhat326?label=FOLLOWERS&color=5BE372&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=5BE372" alt="followers" /></a>
 </p>
 
 ---
@@ -92,10 +92,10 @@
 ### `$ ./contact.sh`
 
 <p>
-  <a href="https://github.com/duynhat326"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=5BE372&labelColor=0D1117&color=00FF41" alt="github" /></a>
-  <a href="mailto:duynhatnguyen03@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=5BE372&labelColor=0D1117&color=00FF41" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/solenguyen/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=5BE372&labelColor=0D1117&color=00FF41" alt="linkedin" /></a>
-  <a href="https://duynhat.me"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=5BE372&labelColor=0D1117&color=00FF41" alt="website" /></a>
+  <a href="https://github.com/duynhat326"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=5BE372&labelColor=0D1117&color=5BE372" alt="github" /></a>
+  <a href="mailto:duynhatnguyen03@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=5BE372&labelColor=0D1117&color=5BE372" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/solenguyen/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=5BE372&labelColor=0D1117&color=5BE372" alt="linkedin" /></a>
+  <a href="https://duynhat.me"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=5BE372&labelColor=0D1117&color=5BE372" alt="website" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00FF41,100:0D1117&section=footer" alt="footer" />
