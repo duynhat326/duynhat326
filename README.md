@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,100:00FF41&section=header" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,100:5BE372&section=header" alt="header" />
 
 <h1 align="center">
   <code>root@duynhat326:~$</code> whoami
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/duynhat326">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=560&height=40&lines=%3E+Information+Security+Student;%3E+SOC+Analyst+Intern;%3E+CTF+Player+%7C+sol3_f1t;%3E+exit+0+%E2%96%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5BE372&background=0D1117&center=true&vCenter=true&width=560&height=40&lines=%3E+Information+Security+Student;%3E+SOC+Analyst+Intern;%3E+CTF+Player+%7C+sol3_f1t;%3E+exit+0+%E2%96%88" alt="Typing SVG" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=duynhat326&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=duynhat326&hide_border=true&background=0D1117&stroke=5BE372&ring=5BE372&fire=5BE372&currStreakLabel=5BE372&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
 </p>
 
 ### `$ ./snake.sh`
@@ -98,4 +98,4 @@
   <a href="https://duynhat.me"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=5BE372&labelColor=0D1117&color=5BE372" alt="website" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00FF41,100:0D1117&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5BE372,100:0D1117&section=footer" alt="footer" />
